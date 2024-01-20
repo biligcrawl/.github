@@ -1,12 +1,18 @@
 ## Bilig Crawl👋
 
-<!--
+Data Format:
 
-**Here are some ideas to get you started:**
+| content                | url                      | dtype  | type | length | timestamp    |
+|------------------------|--------------------------|--------|------|--------|--------------|
+| İstikbal göklerdedir   | http://example.com/page1 | string | book | 4      | 1617187200   |
+| İstikbal göklerdedir   | http://example.com/page2 | string | book | 3      | 1617187260   |
+| İstikbal göklerdedir   | http://example.com/page3 | string | book | 2      | 1617187320   |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Table Format
+
+- `content`: Türkçe metin
+- `url`: Sayfanın URL'si
+- `dtype`: Veri türü, default=string
+- `type`: İçerik türü, (book, article vb.)
+- `length`: `content`'in kelime sayisi.
+- `timestamp`: Unix epoch zamanı
