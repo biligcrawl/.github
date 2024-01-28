@@ -35,6 +35,10 @@ We invite everyone interested in being a part of this process to join our team. 
 
 Stay tuned for announcements of our new team members and partnerships!
 
+## Turkish Readme
+
+[Türkce](profile/README_TR.md)
+
 ---
 
 Data Format for Every Dataset:
