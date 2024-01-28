@@ -30,7 +30,7 @@ Günümüz dünyasında, Büyük Dil Modelleri (LLM) teknolojisinin hızla geli�
 
 Bu sürecin bir parçası olmak isteyen herkesi ekibimize katılmaya davet ediyoruz. İlgileniyorsanız, aşağıdaki bağlantılardan bize ulaşabilirsiniz:
 
-- [Discord Hesabımız](https://discord.gg/stMFSKa7)
+- [Discord](https://discord.gg/stMFSKa7)
 - [Linkedin](https://www.linkedin.com/company/biligcrawl)
 
 

@@ -30,7 +30,7 @@ In today's world, with the rapid development of Large Language Models (LLM) tech
 
 We invite everyone interested in being a part of this process to join our team. If you are interested, you can reach us through the following links:
 
-- [Our Discord Account](https://discord.gg/stMFSKa7)
+- [Discord](https://discord.gg/stMFSKa7)
 - [Linkedin](https://www.linkedin.com/company/biligcrawl)
 
 Stay tuned for announcements of our new team members and partnerships!
